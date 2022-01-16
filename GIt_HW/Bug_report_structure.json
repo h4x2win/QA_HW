@@ -1,0 +1,12 @@
+{"ID":1,
+ "Title":"Bug_repotr_structure",
+ "Environment":"windows_10",
+ "Steps_to_reproduce":{ "1":"Opened_git_bash",
+			"2":"Clone_main_branch",
+			"3":"Create_branch_bug_reports",
+	 		"4":"Create_bug_report"
+ 		      },
+ "Expected_result":"Bug_report_created",
+ "Actual_result":"Bug_report_was_not_created"
+ }
+}
