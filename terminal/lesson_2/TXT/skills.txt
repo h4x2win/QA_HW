@@ -1,0 +1,8 @@
+Skills for study:
+1-Terminal linux,
+2-Git,
+3-Postman,
+4-Jmeter,
+5-Android_studio,
+6-Theory,
+7-Devtools.

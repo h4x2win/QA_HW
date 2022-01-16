@@ -1,0 +1,7 @@
+Info about padawan:
+first name-Aleksandr,
+last name-Vazhenin,
+middle name-Vladimirovich,
+age-27,
+count pets-1,
+salary:over9000.

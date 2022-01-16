@@ -1,0 +1,12 @@
+<bug_report>
+    <ID>1</ID>
+    <Title>First_bug_in_git_for_test</Title>
+    <Environment>Windows_10,Google_Chrome,Version_96.0.4664.110</Environment>
+    <Steps_to_results>
+       <first>Go_to:https://github.com/h4x2win/XML</first>
+       <second>Click_on:bug_report.xml</second>
+       <third>Click_on_button:Edit_this_file</third>
+    </Steps_to_results>
+    <Expected_result>Opens_a_window_for_editing_file</Expected_result>
+    <Actual_result>The_page_is_being_updated</Actual_result>
+</bug_report>

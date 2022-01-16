@@ -1,0 +1,9 @@
+ID:1.
+Title-First bug in git for test.
+Environment-Windows 10,Google Chrome,Version 96.0.4664.110.
+Steps to results:
+  1-Go to:https://github.com/h4x2win/TXT.
+  2-Click on:bug_report.txt.
+  3-Click on button:Edit this file.
+Expected result-Opens a window for editing file.
+Actual result-The page is being updated. 
