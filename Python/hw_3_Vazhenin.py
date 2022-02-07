@@ -21,7 +21,7 @@ eur_item = 'eur'
 # 11. Создать переменную usd_eur_rate со значением 0.86
 usd_eur_rate = 0.86
 # 12. Создать переменную uah_item со значением ‘uah’
-uat_item = 'uah'
+uah_item = 'uah'
 # 13. Создать переменную usd_uah_rate со значением 26.23
 usd_uah_rate = 26.23
 # 14. Создать переменную chf_item со значением ‘chf’
@@ -108,7 +108,7 @@ if currency_convertor:
         print(target_currency_amount, eur_item, "=", currency_result, usd_item)
     elif target_currency == 'uah':
         currency_result = target_currency_amount / usd_uah_rate
-        print(target_currency_amount, uat_item, "=", currency_result, usd_item)
+        print(target_currency_amount, uah_item, "=", currency_result, usd_item)
     elif target_currency == 'chf':
         currency_result = target_currency_amount / usd_chf_rate
         print(target_currency_amount, chf_item, "=", currency_result, usd_item)
